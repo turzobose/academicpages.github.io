@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year MPhil student in the Department of Mechanical and Aerospace Engineering at the Hong Kong University of Science and Technology, working with Prof. Stephane Redonnet. I completed my Bachelor's degree in Chemical and Environmental Engineering also from HKUST.
+I am a first year MPhil student in the Department of Integrative Systems and Design at the Hong Kong University of Science and Technology, working with Prof. Tristan Braud. I completed my Bachelor's degree in Chemical and Environmental Engineering also from HKUST.
 
 ## Research Theme
 
-My research is in **Machine Learning Application to Fluids**. I am a Chemical Engineer who fell in love with Artificial Intelligence. My interests lie in solving quantitative problems and modeling complex systems. My research topic is situated at the intersection of Fluid Dynamics, Deep Learning, and Computational Methods.
+My primary research is in **Human-Computer Interaction** and I focus on **Object Localisation and Mapping**. I am a Chemical Engineer who fell in love with Artificial Intelligence. My interests lie in solving quantitative problems and modeling complex systems. My research topic is situated at the intersection of Computer Vision, Deep Learning, and Computational Methods.
 
 ## What's Cooking
 
